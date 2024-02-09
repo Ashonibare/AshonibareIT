@@ -10,9 +10,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="" />][instagram]
+[<img align="left" alt="Victor Animasahun | Twitter" width="22px" src="" />][twitter]
+[<img align="left" alt="Victor Animasahun | LinkedIn" width="22px" src="" />][linkedin]
+[<img align="left" alt="Victor Animasahun | Instagram" width="22px" src="" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
